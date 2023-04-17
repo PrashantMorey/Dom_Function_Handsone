@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: crimson;
+    text-decoration: underline;
+}
+ol{
+    list-style: none;
+}
